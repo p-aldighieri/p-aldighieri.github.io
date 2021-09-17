@@ -5,4 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Section currently under development.
+## Working papers 
+
+The Effects of Screen Quotas on the Movie Exhibition Market (last updated March, 2021) \[presentation]
