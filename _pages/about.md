@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome!
+## Welcome!
 
 I am a 2nd year economics masters student at [PUC-Rio](http://www.econ.puc-rio.br/).
 
