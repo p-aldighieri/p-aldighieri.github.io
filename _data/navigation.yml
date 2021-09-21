@@ -5,3 +5,6 @@ main:
   
   - title: "CV"
     url: /files/CV-overleaf-en.pdf
+    
+  - title: "Writings"
+    url: /writings/
