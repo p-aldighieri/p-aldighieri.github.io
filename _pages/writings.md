@@ -15,7 +15,7 @@ author_profile: true
 [Do Antitrust Concerns Imply More or Less Privacy?](https://www.cato.org/blog/antitrust-or-against-privacy), _Cato at Liberty_, June 15, 2021 (with Jeffrey Miron)<br/>
 [Airbnb and House Parties](https://www.cato.org/blog/airbnb-house-parties), _Cato at Liberty_, June 14, 2021 (with Peter Van Doren and Jeffrey Miron)<br/>
 [Amazon Eliminates Marijuana Screening for New Hires](https://www.cato.org/blog/amazon-eliminates-marijuana-screening-new-employees), _Cato at Liberty_, June 8, 2021 (with Jeffrey Miron)<br/>
-[Waiving COVID-19 vaccine patents would be disastrous](https://www.marketwatch.com/story/waiving-covid-19-vaccine-patents-would-be-disastrous-11621430167), _Cato at Liberty_, May 19, 2021 (with Jeffrey Miron)<br/>
+[Waiving COVID-19 vaccine patents would be disastrous](https://www.marketwatch.com/story/waiving-covid-19-vaccine-patents-would-be-disastrous-11621430167), _MarketWatch_, May 19, 2021 (with Jeffrey Miron)<br/>
 [Trustbusters or Business-Busters?](https://www.cato.org/blog/trustbusters-or-business-busters), _Cato at Liberty_, May 4, 2021 (with Jeffrey Miron)
 
 ## Books
