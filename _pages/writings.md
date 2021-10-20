@@ -11,6 +11,7 @@ author_profile: true
 
 ## Op-eds and blogs
 
+[The SAFE Banking Act is a Good Step Toward Marijuana Legalization](https://www.realclearpolicy.com/articles/2021/10/20/the_safe_banking_act_is_a_good_step_toward_marijuana_legalization_799656.html), _Real Clear Policy_, October 20, 2021 (with Jeffrey Miron)<br/>
 [Did Industrial Policy Really Boost the South Korean Economy?](https://www.cato.org/blog/did-industrial-policy-really-boost-south-korean-economy), _Cato at Liberty_, October 10, 2021 (with Jeffrey Miron)<br/>
 [Opium Suppression in Afghanistan Was a US-led Failure](https://reason.com/2021/08/24/opium-suppression-in-afghanistan-was-a-us-led-failure/), _Reason_, August 24, 2021 (with Jeffrey Clemens and Jeffrey Miron)<br/>
 [Do Antitrust Concerns Imply More or Less Privacy?](https://www.cato.org/blog/antitrust-or-against-privacy), _Cato at Liberty_, June 15, 2021 (with Jeffrey Miron)<br/>
