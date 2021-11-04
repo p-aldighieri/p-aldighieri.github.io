@@ -11,6 +11,7 @@ author_profile: true
 
 ## Op-eds and blogs
 
+[Regulations and Taxes are Stifling California's Weed Industry](https://www.cato.org/blog/regulation-taxes-are-stifling-californias-weed-industry), _Cato at Liberty_, November 4, 2021 (with Jeffrey Miron) <br/>
 [Texas' Social Media Law Is Ill-conceived](https://www.expressnews.com/opinion/commentary/article/Commentary-Texas-social-media-law-is-16555284.php), _San Antonio Express-News_, October 25, 2021 (with Jeffrey Miron)<br/>
 [Congress Should Let D.C. Enforce Its Own Marijuana Laws](https://www.cato.org/blog/congress-should-let-dc-enforce-its-own-marijuana-laws), _Cato at Liberty_, October 25, 2021 (with Jeffrey Miron) <br/>
 [The SAFE Banking Act is a Good Step Toward Marijuana Legalization](https://www.realclearpolicy.com/articles/2021/10/20/the_safe_banking_act_is_a_good_step_toward_marijuana_legalization_799656.html), _Real Clear Policy_, October 20, 2021 (with Jeffrey Miron)<br/>
@@ -19,7 +20,7 @@ author_profile: true
 [Do Antitrust Concerns Imply More or Less Privacy?](https://www.cato.org/blog/antitrust-or-against-privacy), _Cato at Liberty_, June 15, 2021 (with Jeffrey Miron)<br/>
 [Airbnb and House Parties](https://www.cato.org/blog/airbnb-house-parties), _Cato at Liberty_, June 14, 2021 (with Peter Van Doren and Jeffrey Miron)<br/>
 [Amazon Eliminates Marijuana Screening for New Hires](https://www.cato.org/blog/amazon-eliminates-marijuana-screening-new-employees), _Cato at Liberty_, June 8, 2021 (with Jeffrey Miron)<br/>
-[Waiving COVID-19 vaccine patents would be disastrous](https://www.marketwatch.com/story/waiving-covid-19-vaccine-patents-would-be-disastrous-11621430167), _MarketWatch_, May 19, 2021 (with Jeffrey Miron)<br/>
+[Waiving COVID-19 vaccine patents would be disastrous](https://www.marketwatch.com/story/waiving-covid-19-vaccine-patents-would-be-disastrous-11621430167), _Marketwatch_, May 19, 2021 (with Jeffrey Miron)<br/>
 [Trustbusters or Business-Busters?](https://www.cato.org/blog/trustbusters-or-business-busters), _Cato at Liberty_, May 4, 2021 (with Jeffrey Miron)
 
 ## Books
