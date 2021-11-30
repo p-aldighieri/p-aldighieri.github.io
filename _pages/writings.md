@@ -7,7 +7,7 @@ author_profile: true
 
 ## Economics and policy writings
 
-[What Should Policymakers Do About Climate Change?](https://www.cato.org/briefing-paper/what-should-policymakers-do-about-climate-change), _Cato Institute Briefing Paper No. 130_, November 30, 2021 (with Jeffrey Miron)
+[What Should Policymakers Do About Climate Change?](https://www.cato.org/briefing-paper/what-should-policymakers-do-about-climate-change), _Cato Institute Briefing Paper No. 130_, November 30, 2021 (with Jeffrey Miron) <br/>
 [The Biden Executive Order and Market Power](https://www.cato.org/briefing-paper/biden-executive-order-market-power), _Cato Institute Briefing Paper No. 126_, August 24, 2021 (with Jeffrey Miron)
 
 ## Op-eds and blogs
