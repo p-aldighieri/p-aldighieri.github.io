@@ -12,6 +12,7 @@ author_profile: true
 
 ## Op-eds and blogs
 
+[As the Supreme Court Prepares To Weigh Covid Rules, the Logic of Federal Mandates Starts to Fade](https://www.nysun.com/national/as-the-supreme-court-prepares-to-weigh-covid/91861/), _NY Sun_, January 4, 2022 (with Jeffrey Miron) <br/>
 [Regulations and Taxes are Stifling California's Weed Industry](https://www.cato.org/blog/regulation-taxes-are-stifling-californias-weed-industry), _Cato at Liberty_, November 4, 2021 (with Jeffrey Miron) <br/>
 [Texas' Social Media Law Is Ill-conceived](https://www.expressnews.com/opinion/commentary/article/Commentary-Texas-social-media-law-is-16555284.php), _San Antonio Express-News_, October 25, 2021 (with Jeffrey Miron)<br/>
 [Congress Should Let D.C. Enforce Its Own Marijuana Laws](https://www.cato.org/blog/congress-should-let-dc-enforce-its-own-marijuana-laws), _Cato at Liberty_, October 25, 2021 (with Jeffrey Miron) <br/>
