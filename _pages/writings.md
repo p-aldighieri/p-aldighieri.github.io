@@ -7,6 +7,7 @@ author_profile: true
 
 ## Economics and policy writings
 
+[The Misguided War on Painkillers](https://www.cato.org/policy-report/march/april-2022/misguided-war-painkillers), _Cato Institute Policy Report_, March/April 2022, Vol. 44 No. 2 (with Jeffrey Miron and Jeffrey Singer) </br>
 [What Should Policymakers Do About Climate Change?](https://www.cato.org/briefing-paper/what-should-policymakers-do-about-climate-change), _Cato Institute Briefing Paper No. 130_, November 30, 2021 (with Jeffrey Miron) <br/>
 [The Biden Executive Order and Market Power](https://www.cato.org/briefing-paper/biden-executive-order-market-power), _Cato Institute Briefing Paper No. 126_, August 24, 2021 (with Jeffrey Miron)
 
