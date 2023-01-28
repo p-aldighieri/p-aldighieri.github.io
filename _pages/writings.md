@@ -7,6 +7,7 @@ author_profile: true
 
 ## Economics and policy writings
 
+[Ensuring a Sound Macroeconomic Foundation](https://www.cato.org/publications/ensuring-sound-macroeconomic-foundation), _Empowering the New American Worker_, Ch. 2, December 15, 2022 (with Jeffrey Miron) <br/>
 [Legalized Marijuana](https://www.milkenreview.org/articles/legalized-marijuana?IssueID=45), _Milken Institute Review_, Third Quarter 2022 (with Jeffrey Miron) <br/>
 [Is There Monopsony Power in U.S. Labor Markets?](https://www.cato.org/regulation/summer-2022/there-monopsony-power-us-labor-markets), _Regulation_, Summer 2022, Vol. 45 No. 2 (with Ryan Bourne and Jeffrey Miron) <br/>
 [The Misguided War on Painkillers](https://www.cato.org/policy-report/march/april-2022/misguided-war-painkillers), _Cato Institute Policy Report_, March/April 2022, Vol. 44 No. 2 (with Jeffrey Miron and Jeffrey Singer) <br/>
