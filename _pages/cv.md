@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Curriculum Vitae in [English](https://pbragasoares.github.io/files/CV-pedro-braga-soares-en.pdf) or [Portuguese](https://pbragasoares.github.io/files/CV-pedro-braga-soares-pt.pdf).
+Curriculum Vitae in [English](https://p-aldighieri.github.io/files/CV-pedro-braga-soares-en.pdf) or [Portuguese](https://p-aldighieri.github.io/files/CV-pedro-braga-soares-pt.pdf).
