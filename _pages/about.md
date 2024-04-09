@@ -10,6 +10,6 @@ redirect_from:
 
 ## Welcome!
 
-I'm a first year PhD student at [Northwestern Economics](https://economics.northwestern.edu/).
+I'm a PhD student at [Northwestern Economics](https://economics.northwestern.edu/).
 
-My research interests focus on economics of regulation, cultural and audiovisual policy. My current research fields are applied micro and Industrial Organization.
+My research interests focus on the economics of innovation and science, and Industrial Organization.
