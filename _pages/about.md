@@ -12,4 +12,4 @@ redirect_from:
 
 I'm a PhD student at [Northwestern Economics](https://economics.northwestern.edu/).
 
-My research interests focus on the Economics of Innovation and Science, Economic History, and Industrial Organization.
+My research interests focus on the Economics of Innovation and Science, Economic History, and Industrial Organization. I'm also interested in AI as a tool and object of economics research.
