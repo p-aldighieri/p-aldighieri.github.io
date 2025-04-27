@@ -5,7 +5,7 @@ permalink: /writings/
 author_profile: true
 ---
 
-<!-- 
+
 ## Economics and policy writings
 
 [Ensuring a Sound Macroeconomic Foundation](https://www.cato.org/publications/ensuring-sound-macroeconomic-foundation), _Empowering the New American Worker_, Ch. 2, December 15, 2022 (with Jeffrey Miron) <br/>
@@ -29,7 +29,6 @@ author_profile: true
 [Amazon Eliminates Marijuana Screening for New Hires](https://www.cato.org/blog/amazon-eliminates-marijuana-screening-new-employees), _Cato at Liberty_, June 8, 2021 (with Jeffrey Miron)<br/>
 [Waiving COVID-19 Vaccine Patents Would Be Disastrous](https://www.marketwatch.com/story/waiving-covid-19-vaccine-patents-would-be-disastrous-11621430167), _Marketwatch_, May 19, 2021 (with Jeffrey Miron)<br/>
 [Trustbusters or Business-Busters?](https://www.cato.org/blog/trustbusters-or-business-busters), _Cato at Liberty_, May 4, 2021 (with Jeffrey Miron)
--->
 
 ## Books
 
