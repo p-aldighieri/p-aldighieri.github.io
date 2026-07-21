@@ -2,24 +2,15 @@
 
 ## Workspace Repositories
 - Website repo: `/Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/Website`
-- CV source repo: `/Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/CV_package`
+- CV source PDF (already built — do not compile it): `/Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Pessoais/Currículo & Carreira/CVs/CV-pedro-aldighieri-en.pdf`
 
 ## CV Refresh Workflow
-Use this workflow when asked to update the website CV from the CV repository.
+Use this workflow when asked to update the website CV. The source is a built PDF, not a LaTeX repo — just copy it over. Do not try to compile anything.
 
-1. Pull latest CV changes:
-   - `git -C /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/CV_package fetch origin`
-   - `git -C /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/CV_package pull --ff-only origin main`
+1. Copy the source PDF into website files:
+   - `cp "/Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Pessoais/Currículo & Carreira/CVs/CV-pedro-aldighieri-en.pdf" /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/Website/files/CV-pedro-aldighieri-en.pdf`
 
-2. Build the English PDF in the CV repo:
-   - `cd /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/CV_package`
-   - `latexmk -pdf CV-en-pedro-braga-soares.tex`
-   - If `latexmk` is unavailable, compile with `pdflatex` until references settle.
-
-3. Copy output into website files:
-   - `cp /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/CV_package/CV-en-pedro-braga-soares.pdf /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/Website/files/CV-pedro-aldighieri-en.pdf`
-
-4. Verify website references and changes:
+2. Verify website references and changes:
    - Confirm links in `/Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/Website/_pages/cv.md`.
    - Check changed files with:
      - `git -C /Users/p-aldighieri/Library/CloudStorage/OneDrive-Personal/Codebook/Website status --short`
