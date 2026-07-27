@@ -9,7 +9,7 @@ author_profile: true
 
 - [Technological Breakthroughs and the Progress of Science: Evidence from Early Computers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5806445) (with Franco Malpassi)
 - **Electoral Effects of U.S. Soft Power: Evidence from Hollywood Movies in Cold War Italy** (with Mario Cannella and Matteo Magnaricotte) — *R&R, Journal of Economic History*
-- [Drawing the Line: The Spatial Non-Neutrality of Land Value Taxation](https://p-aldighieri.github.io/files/Drawing_the_Line_LVT.pdf) (draft, July 2026)
+- [Drawing the Line: The Spatial Non-Neutrality of Land Value Taxation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758)
 
 ## Work in progress
 - **A Market for Stories: How Market Consolidation Shaped Narratives in US History Textbooks** (with Vitaliia Eliseeva)
